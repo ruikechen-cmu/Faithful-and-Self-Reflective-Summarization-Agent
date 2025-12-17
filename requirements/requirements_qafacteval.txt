@@ -1,0 +1,21 @@
+# Core
+python>=3.8,<3.10
+torch>=1.6,<2.0
+transformers==3.0.2
+allennlp==1.1.0
+
+# QAFactEval
+qafacteval
+qaeval
+spacy==2.2.4
+nltk
+sentencepiece
+
+# Evaluation utils
+numpy
+scipy
+scikit-learn
+tqdm
+regex
+requests
+protobuf
